@@ -1,0 +1,6 @@
+this.name = " Radio Caca V2";
+this.symbol = RACA;
+this.token = "0x0000000000000000000000000000000000000000";
+this.protocol = "BNB Chain";
+this.block =  18708185;
+this.contract = "0x12BB890508c125661E03b09EC06E404bc9289040"
